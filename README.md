@@ -12,6 +12,8 @@ conda install pandas matplotlib networkx natsort
 
 ## Data Preprocessing
 
+Data preprocessing is included in another repo [Binary Graph Representation](https://github.com/Viewer-HX/Binary_Graph_Representation).
+
 ## Model Training
 
 ## Basic Analysis
